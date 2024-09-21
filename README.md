@@ -18,7 +18,7 @@ Hi! I'm Chok, a passionate full-stack developer with a focus on building scalabl
 
 ---
 
-<h2 style="text-align:center;">>>Skills<<</p>
+<h2 style="text-align:center;">Skills</h2>
 
 ###
 
