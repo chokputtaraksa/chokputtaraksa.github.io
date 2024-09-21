@@ -20,8 +20,6 @@ Hi! I'm Chok, a passionate full-stack developer with a focus on building scalabl
 
 <h2 style="text-align:center;">Skills</h2>
 
-###
-
 - **Programming Languages**: JavaScript, TypeScript, Python, Go, C#, more but long time ago.
 - **Frameworks**: NestJS, NextJs, Angular, React, Express, Django, Django Rest framework, .
 - **Databases**: PostgreSQL, MongoDB, MySQL.
